@@ -14,6 +14,7 @@ org_id= os.getenv('ORG_ID')
 st.set_page_config(layout="centered")
 
 st.title("Asistente IA de Origen Medios")
+st.subheader("Mi conocimiento abarca MEGATIME años 2022 y 2023")
 st.markdown("---")
 
 # init chat
